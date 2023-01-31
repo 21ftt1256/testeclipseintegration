@@ -6,6 +6,8 @@ public class ClassA {
 	
 	public ClassA(String abc) {
 		this.abc = abc; 
+		
+//		ok
 	}
 	public String getAbc() {
 		return abc;
