@@ -8,6 +8,7 @@ public class ClassA {
 		this.abc = abc; 
 		
 //		ok
+//		yoooooo?
 	}
 	public String getAbc() {
 		return abc;
